@@ -39,6 +39,10 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
 
+  cupertino_icons: ^1.0.8
+  google_fonts: ^5.0.0  # or check for latest stable version
+
+
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is
   # activated in the `analysis_options.yaml` file located at the root of your
@@ -58,13 +62,7 @@ flutter:
   uses-material-design: true
 
   assets:
-    - images/alexsandra.png
-    - images/emely.jpg
-    - images/emily.png
-    - images/image1.png
-    - images/image2.png
-    - images/image3.png
-    - images/sule.png
+    - assets/images/
 
   # To add assets to your application, add an assets section, like this:
   # assets:
